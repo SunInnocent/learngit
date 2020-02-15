@@ -7,3 +7,4 @@ add new line A.
 
 add new line B in master.
  
+delete B.
